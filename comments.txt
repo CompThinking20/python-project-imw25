@@ -1,1 +1,4 @@
 Can you send me the exact package name for 'tkinter' via email? I wasn't able to get pip to install it, and I don't know if that's a problem with mu pip installation—sadly likely—or because I have the package name wrong. Other than that, I think I see where you're going with this, and the next step will be allowing someone to enter some dummy data. Without knowing the package you're using or seeing it in action, it's hard for me to give a lot of strong direction. So if a meeting is in order, let me know!
+
+MILESTONE 2 COMMENTS
+So I was able to figure out the tkinter issue: the default Python on macOS is 2, but when I ran your program specifying Python3 it ran with no problem. So this looks great for where it is. I'll leave it up to you what you want to do with your final submission: just pick one feature not currently implemented and give it some kind of implementation. Doesn't have to be complete, just have it respond to the user in some way. Great work here!
