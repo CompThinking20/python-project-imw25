@@ -30,6 +30,6 @@ In terms of corrections, your comments seemed generally loose towards the progra
 
 As for bugs I discovered and work arounds created, there where many
 
-Line 51 I for the button I learned that "command" when running a function will automatically activate that function, rather than activate on press, with the work around being you must use Lambda to enable the functioned to called properly
+Line 51 I for the button I learned that "command" when running a function will automatically activate that function, rather than activate on press, with the work around being you must use Lambda to allow the functioned to called properly
 
 Line 115 and Line 165 for example define the custom path I was using, but what I found contrary to most tutorials on creating custom directories is that on some versions of python, the directory must be defined as a "raw" strings and thus have an 'r' placed in front of it.
